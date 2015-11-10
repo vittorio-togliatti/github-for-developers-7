@@ -4,3 +4,4 @@
 - Loves *Artichokes*
 - Plays *Music*
 - Favourite color: Blue
+- New entry: New!
